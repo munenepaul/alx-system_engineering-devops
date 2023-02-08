@@ -1,1 +1,2 @@
 absolute path
+display contents
